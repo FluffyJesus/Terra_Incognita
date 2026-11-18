@@ -23,6 +23,8 @@ caves to explore.
 **Shipwrecks.** Boats that ran aground on the new islands, with their masts snapped and torn sails hanging. Their
 cargo and the crew's things are still lying around. Now and then the survivors' camp is not far away.
 
+<img width="2556" height="1436" alt="Screenshot_52" src="https://github.com/user-attachments/assets/57af2a1b-d73f-4cd0-87f1-95b2d9f8c845" />
+
 **Hidden caves.** Some caves hold something someone wanted to keep out of sight.
 
 <img width="2555" height="1422" alt="Screenshot_56" src="https://github.com/user-attachments/assets/0437ffa3-ab37-491e-81f1-947676217fc6" />
